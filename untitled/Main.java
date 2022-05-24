@@ -3,5 +3,7 @@ public class Main {
         System.out.println(" hello git ");
 
         System.out.println("TEST");
+
+        System.out.println("TEST_2");
     }
 }
